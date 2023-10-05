@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @GarF1eldGo
-- 👀 I’m interested in iOS client
+- 👋 Hi, I’m Chengke Deng
+- I'm a graduate student at Columbia University majoring in Computer Science.
+
 
 <!---
 GarF1eldGo/GarF1eldGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
